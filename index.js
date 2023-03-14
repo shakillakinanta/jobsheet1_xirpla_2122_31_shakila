@@ -19,7 +19,7 @@ function play() {
   gramophone.classList.toggle('active');
 }
 
-//window.onload(play());//
+window.onload(play());
 
 // Countdown
 
